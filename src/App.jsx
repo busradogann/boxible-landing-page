@@ -5,7 +5,7 @@ function App() {
     <div>
       <header className="header">
         <div className="container header__container">
-          <h1>kutubox.</h1>
+          <h1>boxible.</h1>
         </div>
       </header>
 
@@ -64,7 +64,7 @@ function App() {
       </section>
 
       <footer className="footer">
-        <p>&copy; 2025 KutuBox. All rights reserved.</p>
+        <p>&copy; 2025 Boxible. All rights reserved.</p>
       </footer>
     </div>
   );
