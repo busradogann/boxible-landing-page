@@ -16,8 +16,6 @@ A responsive landing page for a fictional subscription box service. Built with *
 
 ![Boxible Screenshot](./public/boxible-screenshot.png)
 
-> Add a real screenshot here after taking one.
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
@@ -30,12 +28,9 @@ npm install
 
 npm run dev
 
-
 🛠 Built With
 React
-
 Vite
-
 SCSS
 
 
