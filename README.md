@@ -38,6 +38,7 @@ Vite
 SCSS
 
 ## 🛠 Project Structure
+
 boxible-landing-page/
 ├── public/
 │   └── images/
