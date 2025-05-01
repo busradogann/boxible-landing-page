@@ -14,7 +14,7 @@ A responsive landing page for a fictional subscription box service. Built with *
 
 ## 📸 Preview
 
-![Boxible Screenshot](./public/boxible-screen.png)
+![Boxible Screenshot](./public/boxible-screenshot.png)
 
 > Add a real screenshot here after taking one.
 
