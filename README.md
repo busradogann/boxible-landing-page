@@ -36,14 +36,3 @@ npm run dev
 React
 Vite
 SCSS
-
-## 🛠 Project Structure
-
-boxible-landing-page/
-├── public/
-│   └── images/
-├── src/
-│   ├── App.jsx
-│   ├── App.scss
-│   └── assets/
-└── index.html
