@@ -24,17 +24,17 @@ function App() {
         <h2 className="section-title">Our Popular Boxes</h2>
         <div className="products__list">
           <div className="products__item">
-            <img src="../public/beauty-box.jpg" alt="Beauty Box" className="products__image" />
+            <img src="/beauty-box.jpg" alt="Beauty Box" className="products__image" />
             <h3 className="products__title">Beauty Box</h3>
             <p className="products__desc">A curated selection of beauty products to pamper yourself every month.</p>
           </div>
           <div className="products__item">
-            <img src="../public/fashion-box.jpg" alt="Fashion Box" className="products__image" />
+            <img src="/fashion-box.jpg" alt="Fashion Box" className="products__image" />
             <h3 className="products__title">Fashion Box</h3>
             <p className="products__desc">Trendy fashion items that make you stand out in every season.</p>
           </div>
           <div className="products__item">
-            <img src="../public/lifestyle-box.webp" alt="Lifestyle Box" className="products__image" />
+            <img src="/lifestyle-box.webp" alt="Lifestyle Box" className="products__image" />
             <h3 className="products__title">Lifestyle Box</h3>
             <p className="products__desc">A mix of lifestyle items to elevate your daily routine.</p>
           </div>
