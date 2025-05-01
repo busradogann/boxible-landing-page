@@ -34,5 +34,7 @@ npm run dev
 
 ## 🛠 Built With
 React
+
 Vite
+
 SCSS
